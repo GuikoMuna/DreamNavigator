@@ -1,2 +1,2 @@
 # DreamNavigator
-Implementation of graph algorithms in the map graph of the games "yume nikkie" and "yume 2kki"
+Implementation of graph algorithms in the map graph of the games "yume nikki" and "yume 2kki"
