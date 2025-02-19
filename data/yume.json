@@ -1,0 +1,1314 @@
+{
+  "connections": [
+    {
+      "origin": "Barracks Settlement",
+      "destination": "FC World B",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "origin": "Barracks Settlement",
+      "destination": "Mural World",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "origin": "Barracks Settlement",
+      "destination": "Wilderness",
+      "attributes": []
+    },
+    {
+      "origin": "Block World",
+      "destination": "Checkered Tile Path",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Block World",
+      "destination": "Footprint Path",
+      "attributes": [
+        "No Return",
+        "Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Block World",
+      "destination": "Neon Tile Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Block World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "origin": "Block World",
+      "destination": "Staircase of Hands",
+      "attributes": [
+        "Chance",
+        "Unlockable"
+      ],
+      "chancePercentage": "20%",
+      "chanceDescription": "1/5 chance"
+    },
+    {
+      "origin": "Block World",
+      "destination": "White Desert A",
+      "attributes": []
+    },
+    {
+      "origin": "Block World",
+      "destination": "Windmill World",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "origin": "Candle World",
+      "destination": "Checkered Tile Path",
+      "attributes": []
+    },
+    {
+      "origin": "Candle World",
+      "destination": "Docks B",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Candle World",
+      "destination": "Hell",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "origin": "Candle World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "origin": "Candle World",
+      "destination": "Staircase of Hands",
+      "attributes": [
+        "Chance",
+        "Unlockable",
+        "Conditional"
+      ],
+      "unlockCondition": "Only if the Poop Hair effect has not yet been collected",
+      "chancePercentage": "20%",
+      "chanceDescription": "1/5 chance"
+    },
+    {
+      "origin": "Checkered Tile Path",
+      "destination": "Block World",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Checkered Tile Path",
+      "destination": "Candle World",
+      "attributes": []
+    },
+    {
+      "origin": "Checkered Tile Path",
+      "destination": "Docks B",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "origin": "Checkered Tile Path",
+      "destination": "Hell",
+      "attributes": []
+    },
+    {
+      "origin": "Checkered Tile Path",
+      "destination": "Lamp World",
+      "attributes": [
+        "Dead End"
+      ]
+    },
+    {
+      "origin": "Checkered Tile Path",
+      "destination": "Shield-Folk World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Dark Woods",
+      "destination": "Hell",
+      "attributes": []
+    },
+    {
+      "origin": "Dark Woods",
+      "destination": "Traincar",
+      "attributes": []
+    },
+    {
+      "origin": "Dark World",
+      "destination": "Face Carpet Plaza",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Dark World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "origin": "Dark World",
+      "destination": "Wilderness",
+      "attributes": []
+    },
+    {
+      "origin": "Debug Room",
+      "destination": "Checkered Tile Path",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Debug Room",
+      "destination": "Dark World",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Debug Room",
+      "destination": "Dense Woods A",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Debug Room",
+      "destination": "Face Carpet Plaza",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Debug Room",
+      "destination": "Forest World",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Debug Room",
+      "destination": "Mars",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "origin": "Debug Room",
+      "destination": "Static Maze",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Debug Room",
+      "destination": "White Desert B",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "origin": "Dense Woods A",
+      "destination": "FC World C",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Dense Woods A",
+      "destination": "Guillotine World",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "origin": "Dense Woods A",
+      "destination": "Hell",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "origin": "Dense Woods A",
+      "destination": "Mural World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Dense Woods A",
+      "destination": "Puddle World",
+      "attributes": []
+    },
+    {
+      "origin": "Dense Woods A",
+      "destination": "Road",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "origin": "Dense Woods B",
+      "destination": "Mall",
+      "attributes": []
+    },
+    {
+      "origin": "Dense Woods B",
+      "destination": "Teleport Maze",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "origin": "Docks A",
+      "destination": "Sewers",
+      "attributes": []
+    },
+    {
+      "origin": "Docks A",
+      "destination": "Windmill World",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "origin": "Docks B",
+      "destination": "Candle World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Docks B",
+      "destination": "Checkered Tile Path",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "origin": "Docks B",
+      "destination": "Hell",
+      "attributes": []
+    },
+    {
+      "origin": "Docks B",
+      "destination": "Wilderness",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "origin": "Eyeball World",
+      "destination": "Footprint Path",
+      "attributes": []
+    },
+    {
+      "origin": "Eyeball World",
+      "destination": "Mini Hell",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Eyeball World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "origin": "FC Dungeon",
+      "destination": "FC World A",
+      "attributes": []
+    },
+    {
+      "origin": "FC Dungeon",
+      "destination": "White Desert B",
+      "attributes": []
+    },
+    {
+      "origin": "FC House",
+      "destination": "FC World A",
+      "attributes": [
+        "Return"
+      ]
+    },
+    {
+      "origin": "FC House",
+      "destination": "FC World B",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "origin": "FC House",
+      "destination": "Static Maze",
+      "attributes": []
+    },
+    {
+      "origin": "FC World A",
+      "destination": "FC Dungeon",
+      "attributes": []
+    },
+    {
+      "origin": "FC World A",
+      "destination": "FC House",
+      "attributes": [
+        "Dead End"
+      ]
+    },
+    {
+      "origin": "FC World A",
+      "destination": "Static Tunnel",
+      "attributes": []
+    },
+    {
+      "origin": "FC World B",
+      "destination": "Barracks Settlement",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "origin": "FC World B",
+      "destination": "FC House",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "origin": "FC World C",
+      "destination": "Dense Woods A",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "origin": "FC World C",
+      "destination": "Windmill World",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "origin": "Face Carpet Plaza",
+      "destination": "Dark World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Face Carpet Plaza",
+      "destination": "Forest World",
+      "attributes": []
+    },
+    {
+      "origin": "Face Carpet Plaza",
+      "destination": "Hell",
+      "attributes": []
+    },
+    {
+      "origin": "Face Carpet Plaza",
+      "destination": "Neon Tile Path",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "origin": "Face Carpet Plaza",
+      "destination": "Snow World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Footprint Path",
+      "destination": "Block World",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Footprint Path",
+      "destination": "Eyeball World",
+      "attributes": []
+    },
+    {
+      "origin": "Footprint Path",
+      "destination": "Hell",
+      "attributes": []
+    },
+    {
+      "origin": "Footprint Path",
+      "destination": "Lamp World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Footprint Path",
+      "destination": "Neon World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Footprint Path",
+      "destination": "Puddle World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Footprint Path",
+      "destination": "Snow World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Forest World",
+      "destination": "Face Carpet Plaza",
+      "attributes": []
+    },
+    {
+      "origin": "Forest World",
+      "destination": "Hell",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Forest World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "origin": "Ghost World",
+      "destination": "Sky Garden",
+      "attributes": []
+    },
+    {
+      "origin": "Graffiti World",
+      "destination": "Mall",
+      "attributes": []
+    },
+    {
+      "origin": "Graffiti World",
+      "destination": "Neon Tile Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Graffiti World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "origin": "Guillotine World",
+      "destination": "Dense Woods A",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "origin": "Guillotine World",
+      "destination": "Hell",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "origin": "Guillotine World",
+      "destination": "Lamp World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Guillotine World",
+      "destination": "Neon World",
+      "attributes": [
+        "No Entry"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Guillotine World",
+      "destination": "Number World",
+      "attributes": []
+    },
+    {
+      "origin": "Hell",
+      "destination": "Candle World",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "origin": "Hell",
+      "destination": "Checkered Tile Path",
+      "attributes": []
+    },
+    {
+      "origin": "Hell",
+      "destination": "Dark Woods",
+      "attributes": []
+    },
+    {
+      "origin": "Hell",
+      "destination": "Dense Woods A",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "origin": "Hell",
+      "destination": "Docks B",
+      "attributes": []
+    },
+    {
+      "origin": "Hell",
+      "destination": "Face Carpet Plaza",
+      "attributes": []
+    },
+    {
+      "origin": "Hell",
+      "destination": "Footprint Path",
+      "attributes": []
+    },
+    {
+      "origin": "Hell",
+      "destination": "Forest World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Hell",
+      "destination": "Guillotine World",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "origin": "Hell",
+      "destination": "Mini Hell",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Hell",
+      "destination": "Neon Tile Path",
+      "attributes": []
+    },
+    {
+      "origin": "Hell",
+      "destination": "Sky Garden",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "origin": "Hell",
+      "destination": "Snow World",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "origin": "Hell",
+      "destination": "Teleport Maze",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "origin": "Lamp World",
+      "destination": "Checkered Tile Path",
+      "attributes": [
+        "Return"
+      ]
+    },
+    {
+      "origin": "Lamp World",
+      "destination": "Footprint Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Lamp World",
+      "destination": "Guillotine World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Lamp World",
+      "destination": "Number World",
+      "attributes": []
+    },
+    {
+      "origin": "Madotsuki's Room",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "origin": "Madotsuki's Room",
+      "destination": "Staircase of Hands",
+      "attributes": [
+        "Chance",
+        "Unlockable"
+      ],
+      "chancePercentage": "20%",
+      "chanceDescription": "1/5 chance determined per dream session"
+    },
+    {
+      "origin": "Mall",
+      "destination": "Dense Woods B",
+      "attributes": []
+    },
+    {
+      "origin": "Mall",
+      "destination": "Graffiti World",
+      "attributes": []
+    },
+    {
+      "origin": "Mall",
+      "destination": "Sewers",
+      "attributes": [
+        "No Entry"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Mall",
+      "destination": "Underground World",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "origin": "Mars",
+      "destination": "Spaceship",
+      "attributes": []
+    },
+    {
+      "origin": "Mini Hell",
+      "destination": "Eyeball World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Mini Hell",
+      "destination": "Hell",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Mini Hell",
+      "destination": "Neon Tile Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Mini Hell",
+      "destination": "Number World",
+      "attributes": []
+    },
+    {
+      "origin": "Mural World",
+      "destination": "Barracks Settlement",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "origin": "Mural World",
+      "destination": "Dense Woods A",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Mural World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "origin": "Mural World",
+      "destination": "Sewers",
+      "attributes": []
+    },
+    {
+      "origin": "Neon Tile Path",
+      "destination": "Block World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Neon Tile Path",
+      "destination": "Face Carpet Plaza",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "origin": "Neon Tile Path",
+      "destination": "Graffiti World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Neon Tile Path",
+      "destination": "Hell",
+      "attributes": []
+    },
+    {
+      "origin": "Neon Tile Path",
+      "destination": "Mini Hell",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Neon Tile Path",
+      "destination": "Neon World",
+      "attributes": []
+    },
+    {
+      "origin": "Neon World",
+      "destination": "Footprint Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Neon World",
+      "destination": "Guillotine World",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Neon World",
+      "destination": "Neon Tile Path",
+      "attributes": []
+    },
+    {
+      "origin": "Neon World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "origin": "Nexus",
+      "destination": "Block World",
+      "attributes": []
+    },
+    {
+      "origin": "Nexus",
+      "destination": "Candle World",
+      "attributes": []
+    },
+    {
+      "origin": "Nexus",
+      "destination": "Dark World",
+      "attributes": []
+    },
+    {
+      "origin": "Nexus",
+      "destination": "Eyeball World",
+      "attributes": []
+    },
+    {
+      "origin": "Nexus",
+      "destination": "Forest World",
+      "attributes": []
+    },
+    {
+      "origin": "Nexus",
+      "destination": "Graffiti World",
+      "attributes": []
+    },
+    {
+      "origin": "Nexus",
+      "destination": "Lamp World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Nexus",
+      "destination": "Madotsuki's Room",
+      "attributes": []
+    },
+    {
+      "origin": "Nexus",
+      "destination": "Mural World",
+      "attributes": []
+    },
+    {
+      "origin": "Nexus",
+      "destination": "Neon World",
+      "attributes": []
+    },
+    {
+      "origin": "Nexus",
+      "destination": "Number World",
+      "attributes": []
+    },
+    {
+      "origin": "Nexus",
+      "destination": "Puddle World",
+      "attributes": []
+    },
+    {
+      "origin": "Nexus",
+      "destination": "Shield-Folk World",
+      "attributes": []
+    },
+    {
+      "origin": "Nexus",
+      "destination": "Snow World",
+      "attributes": []
+    },
+    {
+      "origin": "Number World",
+      "destination": "Guillotine World",
+      "attributes": []
+    },
+    {
+      "origin": "Number World",
+      "destination": "Lamp World",
+      "attributes": []
+    },
+    {
+      "origin": "Number World",
+      "destination": "Mini Hell",
+      "attributes": [
+        "Needs Effect"
+      ],
+      "effectsNeeded": [
+        "Knife"
+      ]
+    },
+    {
+      "origin": "Number World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "origin": "Number World",
+      "destination": "Staircase of Hands",
+      "attributes": [
+        "Chance",
+        "Unlockable"
+      ],
+      "chancePercentage": "20%",
+      "chanceDescription": "1/5 chance"
+    },
+    {
+      "origin": "Pink Sea",
+      "destination": "Poniko's House",
+      "attributes": []
+    },
+    {
+      "origin": "Pink Sea",
+      "destination": "Snow World",
+      "attributes": []
+    },
+    {
+      "origin": "Poniko's House",
+      "destination": "Pink Sea",
+      "attributes": []
+    },
+    {
+      "origin": "Puddle World",
+      "destination": "Dense Woods A",
+      "attributes": []
+    },
+    {
+      "origin": "Puddle World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "origin": "Puddle World",
+      "destination": "Footprint Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Road",
+      "destination": "Dense Woods A",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "origin": "Road",
+      "destination": "White Desert Mountain Ring",
+      "attributes": []
+    },
+    {
+      "origin": "Sewers",
+      "destination": "Docks A",
+      "attributes": [
+        "Needs Effect"
+      ],
+      "effectsNeeded": [
+        "Midget"
+      ]
+    },
+    {
+      "origin": "Sewers",
+      "destination": "Mall",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Sewers",
+      "destination": "Mural World",
+      "attributes": []
+    },
+    {
+      "origin": "Sewers",
+      "destination": "Windmill World",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "origin": "Shield-Folk World",
+      "destination": "Checkered Tile Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Shield-Folk World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "origin": "Shield-Folk World",
+      "destination": "Static Maze",
+      "attributes": []
+    },
+    {
+      "origin": "Sky Garden",
+      "destination": "Ghost World",
+      "attributes": []
+    },
+    {
+      "origin": "Sky Garden",
+      "destination": "Hell",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "origin": "Sky Garden",
+      "destination": "Wilderness",
+      "attributes": []
+    },
+    {
+      "origin": "Snow World",
+      "destination": "Face Carpet Plaza",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Snow World",
+      "destination": "Footprint Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "origin": "Snow World",
+      "destination": "Hell",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "origin": "Snow World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "origin": "Snow World",
+      "destination": "Pink Sea",
+      "attributes": []
+    },
+    {
+      "origin": "Snow World",
+      "destination": "Staircase of Hands",
+      "attributes": [
+        "Chance",
+        "Unlockable"
+      ],
+      "chancePercentage": "20%",
+      "chanceDescription": "1/5 chance"
+    },
+    {
+      "origin": "Spaceship",
+      "destination": "Mars",
+      "attributes": []
+    },
+    {
+      "origin": "Spaceship",
+      "destination": "Underground World",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "origin": "Staircase of Hands",
+      "destination": "Block World",
+      "attributes": [
+        "Locked"
+      ]
+    },
+    {
+      "origin": "Staircase of Hands",
+      "destination": "Candle World",
+      "attributes": [
+        "Locked"
+      ]
+    },
+    {
+      "origin": "Staircase of Hands",
+      "destination": "Madotsuki's Room",
+      "attributes": [
+        "Locked"
+      ]
+    },
+    {
+      "origin": "Staircase of Hands",
+      "destination": "Number World",
+      "attributes": [
+        "Locked"
+      ]
+    },
+    {
+      "origin": "Staircase of Hands",
+      "destination": "Snow World",
+      "attributes": [
+        "Locked"
+      ]
+    },
+    {
+      "origin": "Staircase of Hands",
+      "destination": "Underground World",
+      "attributes": []
+    },
+    {
+      "origin": "Static Maze",
+      "destination": "FC House",
+      "attributes": []
+    },
+    {
+      "origin": "Static Maze",
+      "destination": "Shield-Folk World",
+      "attributes": []
+    },
+    {
+      "origin": "Static Tunnel",
+      "destination": "FC World A",
+      "attributes": []
+    },
+    {
+      "origin": "Static Tunnel",
+      "destination": "Wilderness",
+      "attributes": [
+        "Return"
+      ]
+    },
+    {
+      "origin": "Teleport Maze",
+      "destination": "Dense Woods B",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "origin": "Teleport Maze",
+      "destination": "Hell",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "origin": "Teleport Maze",
+      "destination": "Wilderness",
+      "attributes": [
+        "Return",
+        "No Return"
+      ]
+    },
+    {
+      "origin": "Traincar",
+      "destination": "Dark Woods",
+      "attributes": []
+    },
+    {
+      "origin": "Traincar",
+      "destination": "Witch's Island",
+      "attributes": []
+    },
+    {
+      "origin": "Underground World",
+      "destination": "Mall",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "origin": "Underground World",
+      "destination": "Spaceship",
+      "attributes": [
+        "No Return",
+        "Needs Effect"
+      ],
+      "effectsNeeded": [
+        "Umbrella",
+        "Yuki-onna"
+      ]
+    },
+    {
+      "origin": "Underground World",
+      "destination": "Staircase of Hands",
+      "attributes": []
+    },
+    {
+      "origin": "White Desert A",
+      "destination": "Block World",
+      "attributes": []
+    },
+    {
+      "origin": "White Desert A",
+      "destination": "White Desert B",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "origin": "White Desert B",
+      "destination": "FC Dungeon",
+      "attributes": []
+    },
+    {
+      "origin": "White Desert B",
+      "destination": "White Desert A",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "origin": "White Desert Mountain Ring",
+      "destination": "Road",
+      "attributes": []
+    },
+    {
+      "origin": "Wilderness",
+      "destination": "Barracks Settlement",
+      "attributes": []
+    },
+    {
+      "origin": "Wilderness",
+      "destination": "Dark World",
+      "attributes": []
+    },
+    {
+      "origin": "Wilderness",
+      "destination": "Docks B",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "origin": "Wilderness",
+      "destination": "Sky Garden",
+      "attributes": []
+    },
+    {
+      "origin": "Wilderness",
+      "destination": "Static Tunnel",
+      "attributes": [
+        "Dead End"
+      ]
+    },
+    {
+      "origin": "Wilderness",
+      "destination": "Teleport Maze",
+      "attributes": [
+        "Dead End",
+        "No Entry"
+      ]
+    },
+    {
+      "origin": "Windmill World",
+      "destination": "Block World",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "origin": "Windmill World",
+      "destination": "Docks A",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "origin": "Windmill World",
+      "destination": "FC World C",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "origin": "Windmill World",
+      "destination": "Sewers",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "origin": "Witch's Island",
+      "destination": "Traincar",
+      "attributes": []
+    }
+  ],
+  "game": "yume"
+}
